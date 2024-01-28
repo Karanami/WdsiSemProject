@@ -11,6 +11,7 @@ Aby uruchomić model należy użyc poniższej komendy w celu uruchomienia testu
 ```
 [cmd] python working_model.py
 ```
+Testowe zdjęcia zostały dobrane z testowej bazy zdjęć wziętej z [Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
 
 ## Bibliografia
 - “Everything you need to know about VGG16” by Rohini G <br/>
